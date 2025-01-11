@@ -1,6 +1,6 @@
 pipeline {
     environment {
-        imagename = "ganeshpoloju/jenkinss"
+        imagename = "Swati-GaneshS/jenkins"
         dockerImage = ''
         containerName = 'my-container'
         dockerHubCredentials = 'admin'
